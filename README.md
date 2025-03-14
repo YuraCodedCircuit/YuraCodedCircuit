@@ -7,25 +7,25 @@
 
 ### 🛠️ Skills & Technologies
 
-* **Languages:** JavaScript, TypeScriptC++, Python, PHP
+* **Languages:** JavaScript, TypeScriptC++, Python, PHP<br/>
   ![Languages](https://skills-icons.vercel.app/api/icons?i=js,ts,cpp,python,php)
 
-* **Web Technologies:** HTML, CSS/SCSS
+* **Web Technologies:** HTML, CSS/SCSS<br/>
   ![Languages](https://skills-icons.vercel.app/api/icons?i=html,css,sass)
 
-* **Frameworks/Libraries:** JQuery, React, Angular, Ionic, Node.js
+* **Frameworks/Libraries:** JQuery, React, Angular, Ionic, Node.js, Three.js<br/>
   ![Languages](https://skills-icons.vercel.app/api/icons?i=jquery,react,angular,ionic,nodejs,threejs)
 
-* **Database & Tools:** MySQL
+* **Database & Tools:** MySQL<br/>
   ![Database & Tools](https://skills-icons.vercel.app/api/icons?i=mysql,firebase)
 
 **Future Interests:**
 
-* **Languages:** C, Rust, Assembly Language
+* **Languages:** C, Rust, Assembly Language<br/>
   ![Database & Tools](https://go-skill-icons.vercel.app/api/icons?i=c,rust,assembly)
 * **Hardware:** PCB Development, Soldering<br/>
   <!-- https://www.flaticon.com/free-icons/pcb-board | https://www.flaticon.com/free-icons/soldering-iron -->
-  ![pcb-board](/images/pcb-board.png){width=48px} ![pcb-board](/images/soldering-iron.png){width=48px}
+  ![pcb-board](/images/pcb-board.png) ![pcb-board](/images/soldering-iron.png)
 
 **Tools & Technologies:**
 
