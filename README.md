@@ -41,6 +41,7 @@ I'm deeply passionate about:
 * Fueling my problem-solving and creative drive through **Programming**. This is not just a job, but a fundamental interest that drives me.
 * Designing and bringing electronic projects to life through **PCB Development** and **Soldering**. I'm eager to expand my skills in this area and integrate it further into my career, particularly with platforms like **Arduino** and **Raspberry Pi**.
 * Turning digital designs into physical realities with **3D Printing**. This allows me to bridge the gap between software and hardware in exciting ways.
+* Exploring the exciting fields of **Robotics** and **Automatizations**, and their potential to shape the future.
 
 ---
 
@@ -86,7 +87,7 @@ When I'm taking a break from the digital and electronic realms, you might find m
 * Capturing the beauty of the world through the lens of **Photography**.
 * Lost in the wonder of the cosmos during **Stargazing** sessions.
 * Enjoying the freedom of the open road on my **Bike**.
-* Honing my survival skills and connecting with nature through **Bushcraft**.
+* Playing **Golf** to unwind and enjoy the outdoors.
 
 **Exploring Indoors:**
 
